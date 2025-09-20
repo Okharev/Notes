@@ -1,0 +1,50 @@
+---
+Genres:
+  - "[[Beat Em Up]]"
+  - "[[Action RPG]]"
+Creator: "[[Cavia Studio]]"
+Release Date: 2014-05-20
+Start at: 2025-09-16
+Finished: false
+tags:
+  - Review/VideoGame/Retro
+Image: https://upload.wikimedia.org/wikipedia/en/8/8a/Drakengard_3_boxart.png
+rating:
+---
+# Game title
+## 📝 Summary
+
+*A brief, high-level summary of your thoughts on the game.*
+
+---
+
+## 👍 What I Liked
+### **Gameplay:**
+*Specific mechanics or gameplay loops you enjoyed.*
+### **Story:**
+*Narrative elements, characters, or world-building that stood out.*
+### **Art & Sound:**
+*Visual style, soundtrack, or sound design you appreciated.*
+### **Performance:**
+*Smoothness, lack of bugs, or other technical positives.*
+
+---
+
+## 👎 What I Didn't Like
+
+### **Gameplay:**
+*Frustrating mechanics or repetitive gameplay.*
+### **Story:**
+*Plot holes, uninteresting characters, or a weak narrative.*
+### **Art & Sound:**
+*Unappealing visuals or a grating soundtrack.*
+### **Performance:**
+*Bugs, glitches, or performance issues.*
+
+---
+
+## ✨ Final Verdict
+
+*Your concluding thoughts and whether you would recommend the game to others.*
+
+**Final Score:** 

@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Genres": "multitext",
+    "Release Date": "date",
+    "Start at": "date",
+    "Finished": "checkbox",
+    "rating": "text"
+  }
+}

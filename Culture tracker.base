@@ -1,0 +1,44 @@
+properties:
+  note.tags:
+    displayName: Category
+views:
+  - type: cards
+    name: Review Games
+    filters:
+      and:
+        - file.tags.contains("Review")
+    order:
+      - file.name
+      - Creator
+      - Release Date
+      - Start at
+      - Finished
+      - tags
+      - Genres
+      - rating
+    sort:
+      - property: tags
+        direction: DESC
+      - property: Finished
+        direction: DESC
+      - property: Start at
+        direction: DESC
+      - property: Release Date
+        direction: DESC
+      - property: Creator
+        direction: DESC
+      - property: file.tags
+        direction: DESC
+      - property: Image
+        direction: ASC
+      - property: Genres
+        direction: DESC
+    columnSize:
+      note.Creator: 112
+      note.Start at: 140
+      note.Finished: 140
+      note.Genres: 215
+    image: note.Image
+    imageFit: ""
+    imageAspectRatio: 1
+    cardSize: 400
