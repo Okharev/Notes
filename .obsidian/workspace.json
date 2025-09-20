@@ -11,24 +11,14 @@
             "id": "f76df3422775125c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Octopath Traveler II.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Octopath Traveler II"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -186,9 +176,19 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "c5657dece9807962",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -206,13 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "888ee5e37c9f9bac",
+  "active": "f76df3422775125c",
   "lastOpenFiles": [
+    "Octopath Traveler II.md",
     "Culture tracker.base",
     "Untitled.md",
     "Drakengard 3.md",
     "Devil May Cry 5.md",
-    "Octopath Traveler II.md",
     "Templates/Template, Game Review.md",
     "Culture Tracker",
     "Pasted image 20250918000900.png",
